@@ -4,7 +4,7 @@ def add(x, y):
     return x + y
 
 def subtract(x, y):
-    """This is an add function"""
+    """This is an subtraction function"""
 
     return x - y
 
